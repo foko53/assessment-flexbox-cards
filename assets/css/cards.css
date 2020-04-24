@@ -38,14 +38,14 @@ html {
 }
 
 .cardDescriptionIcon {
-  font-size: 70px;
+  font-size: 32px;
   margin-bottom: 10px;
   color: #BCD2DA;
 }
 
 .cardDescriptionText {
   color: #57727C;
-  font-size: 25px;
+  font-size: 12px;
   text-align: center;
   max-width: calc(100% - 30px);
 }
@@ -57,9 +57,10 @@ html {
   font-weight: 700;
   padding: 5px 15px;
   border-top: 1px solid #D7DBDD;
-  background-color: #EEF3F5;
-  height: 20px;
+  background-color: #EEF3F5; 
+
 }
+
 .cardDescription{
   display: flex;
   justify-content: space-between;
